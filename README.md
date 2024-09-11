@@ -8,7 +8,7 @@ Merhaba! Ben Özlem ve İstanbul Gelişim Üniversitesi'nde Yönetim Bilişim Si
 
 ## 1. Giriş
 C# diline giriş yaparak temel programlama kavramlarını öğreniyoruz. Bu bölümde ekrana yazı yazdırma ve temel C# yapıları hakkında bilgi bulabilirsiniz.
-[1. Giriş](./Giris.md)
+[1.Giriş](https://github.com/ozlemars/btkAkademi-CSharp/blob/main/Giris/giris.cs)
 
 ## 2. Değişkenler
 Değişkenler, verileri saklamak ve işlem yapmak için kullanılan alanlardır. Bu bölümde değişken tanımlamaları ve kullanımları hakkında bilgi verilmektedir.
