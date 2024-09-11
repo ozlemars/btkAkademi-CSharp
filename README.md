@@ -2,6 +2,10 @@
 
 Bu repo, BTK Akademi'de Sadık Turan hocadan aldığım C# eğitimine dair notları ve konuları içerir. Aşağıda her konu başlığı altında kısa açıklamalar ve bağlantılar yer almaktadır.
 
+## Kendimden Kısaca Bahsetmek Gerekirse
+
+Merhaba! Ben Özlem ve İstanbul Gelişim Üniversitesi'nde Yönetim Bilişim Sistemleri bölümünden mezun oldum. Şu anda C# dili ve yazılım geliştirme konularında kendimi geliştiriyorum. Unity ile oyun geliştirme ve full stack development alanlarına ilgi duyuyorum. 
+
 ## 1. Giriş
 C# diline giriş yaparak temel programlama kavramlarını öğreniyoruz. Bu bölümde ekrana yazı yazdırma ve temel C# yapıları hakkında bilgi bulabilirsiniz.
 [1. Giriş](./Giris.md)
