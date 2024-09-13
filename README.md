@@ -20,7 +20,7 @@ Veri tipleri, değişkenlerin hangi türde veri sakladığını belirler. Bu bö
 
 ## 4. String ve Date
 String (metin) ve Date (tarih) veri türlerinin kullanımı hakkında bilgiler ve örnekler içerir.
-[4. String ve Date](./StringVeDate.md)
+[4. String ve Date](https://github.com/ozlemars/btkAkademi-CSharp/tree/main/StringandDate)
 
 ## 5. Diziler
 Diziler, birden fazla veriyi tek bir değişkende saklamanın yolunu sunar. Bu bölümde dizilerin tanımı ve kullanımı hakkında bilgi bulunur.
