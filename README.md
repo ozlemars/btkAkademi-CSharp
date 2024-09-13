@@ -12,11 +12,11 @@ C# diline giriş yaparak temel programlama kavramlarını öğreniyoruz. Bu böl
 
 ## 2. Değişkenler
 Değişkenler, verileri saklamak ve işlem yapmak için kullanılan alanlardır. Bu bölümde değişken tanımlamaları ve kullanımları hakkında bilgi verilmektedir.
-[2. Değişkenler](./Degiskenler.md)
+[2. Değişkenler](https://github.com/ozlemars/btkAkademi-CSharp/tree/main/Degi%C5%9Fkenler)
 
 ## 3. Veri Tipleri
 Veri tipleri, değişkenlerin hangi türde veri sakladığını belirler. Bu bölümde C# dilinde kullanılan temel veri tiplerine dair açıklamalar yer almaktadır.
-[3. Veri Tipleri](./VeriTipleri.md)
+[3. Veri Tipleri](https://github.com/ozlemars/btkAkademi-CSharp/tree/main/VeriTipleri)
 
 ## 4. String ve Date
 String (metin) ve Date (tarih) veri türlerinin kullanımı hakkında bilgiler ve örnekler içerir.
